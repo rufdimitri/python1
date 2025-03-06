@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb0e43a0-cd9d-4f0f-828c-4ff1f9f6fa65" name="Changes" comment="init">
-      <change afterPath="$PROJECT_DIR$/types1.py" afterDir="false" />
+    <list default="true" id="eb0e43a0-cd9d-4f0f-828c-4ff1f9f6fa65" name="Changes" comment="add python basic types">
+      <change afterPath="$PROJECT_DIR$/input-output.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +15,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -39,6 +40,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.input-output.executor": "Run",
     "Python.main.executor": "Run",
     "Python.types.executor": "Run",
     "Python.types1.executor": "Run",
@@ -80,7 +82,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741115282197</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add python basic types">
+      <option name="closed" value="true" />
+      <created>1741207057529</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1741207057529</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -96,6 +106,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="add python basic types" />
+    <option name="LAST_COMMIT_MESSAGE" value="add python basic types" />
   </component>
 </project>
