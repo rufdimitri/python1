@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb0e43a0-cd9d-4f0f-828c-4ff1f9f6fa65" name="Changes" comment="add python basic types">
-      <change afterPath="$PROJECT_DIR$/input-output.py" afterDir="false" />
+    <list default="true" id="eb0e43a0-cd9d-4f0f-828c-4ff1f9f6fa65" name="Changes" comment="add guess-number-game (input-output)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/types1.py" beforeDir="false" afterPath="$PROJECT_DIR$/types1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,18 +38,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.input-output.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.types.executor": "Run",
-    "Python.types1.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.input-output.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.types.executor&quot;: &quot;Run&quot;,
+    &quot;Python.types1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -90,7 +90,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741207057529</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add guess-number-game (input-output)">
+      <option name="closed" value="true" />
+      <created>1741297003370</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1741297003370</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -107,6 +115,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="add python basic types" />
-    <option name="LAST_COMMIT_MESSAGE" value="add python basic types" />
+    <MESSAGE value="add guess-number-game (input-output)" />
+    <option name="LAST_COMMIT_MESSAGE" value="add guess-number-game (input-output)" />
   </component>
 </project>

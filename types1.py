@@ -19,5 +19,17 @@ def get_type():
     print(f"type of unknown and unknown2 are same? \n - {type(unknown) == type(unknown2)}")
     print(f"type of unknown and unknown3 are same? \n - {type(unknown) == type(unknown3)}")
 
+def type_conversion():
+    input = "123"
+    print(f'int("{input}") == {int(input)}')
+    print(f'float("{input}") == {float(input)}')
+    print(f'bool("{input}") == {bool(input)}')
+    print()
+
+    booleans = ["0", "1", "True", "False", "", " "]
+    for b in booleans:
+        print(f'bool("{b}") == {bool(b)}')
+
 #print_types()
-get_type()
+#get_type()
+type_conversion()
