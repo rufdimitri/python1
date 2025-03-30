@@ -20,4 +20,11 @@ def guess_number_game():
                 low = min(number+1, high)
             print(f"Okay, then it should be between {low} and {high}")
 
-guess_number_game()
+def user_weight():
+    weight_str = input("What is your weight in kg?\n")
+    weight = float(weight_str)
+    weight_pound = weight * 2.204
+    print(f"Your weight in pounds is {weight_pound} lb.")
+
+#guess_number_game()
+user_weight()
